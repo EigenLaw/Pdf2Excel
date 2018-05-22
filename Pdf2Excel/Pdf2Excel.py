@@ -3,7 +3,7 @@ import argparse
 import os
 import time
 
-from AbbyyOnlineSdk import *
+from Pdf2Excel.AbbyyOnlineSdk import *
 
 processor = AbbyyOnlineSdk()
 
