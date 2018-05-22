@@ -12,7 +12,7 @@ setup(
     url='https://github.com/EigenLaw/Pdf2Excel',
     description='Turn pdf into excel file using ABBYY API',
     license='MIT',
-    install_requires=['AbbyyOnlineSdk'],#'time', 'argparse', 
+    #install_requires=['AbbyyOnlineSdk'],#'time', 'argparse', 
     #ext_modules=[Extension("wordcloud.query_integral_image",
     #                       ["wordcloud/query_integral_image.c"])],
     scripts=['Pdf2Excel.py'],
