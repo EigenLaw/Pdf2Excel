@@ -4,6 +4,7 @@
 1. [Description](#description)
 2. [Environment Demands](#environment_demands)
 3. [Reference Website](#reference_website)
+4. [After Install](#after_install)
 
 <a id="description"></a>
 ## Description
@@ -16,3 +17,7 @@ python packages:argparse, time, AbbyyOnlineSdk
 <a id="reference_website"></a>
 ## Reference Website
 https://ocrsdk.com/documentation
+
+<a id="after_install"></a>
+## After Install
+<italic>from Pdf2Excel.Pdf2Excel import Pdf2Excel</italic>
