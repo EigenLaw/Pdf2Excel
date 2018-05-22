@@ -1,2 +1,10 @@
 # Pdf2Excel
-Turn pdf into excel file using ABBYY API
+
+## Description
+Turn pdf into excel file using <strong>ABBYY API</strong>
+
+## Environment Demands
+python packages:argparse, time, AbbyyOnlineSdk
+
+## Reference Website
+https://ocrsdk.com/documentation
