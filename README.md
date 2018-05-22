@@ -20,5 +20,5 @@ https://ocrsdk.com/documentation
 
 <a id="after_install"></a>
 ## After Install
-<strong>from Pdf2Excel.Pdf2Excel import Pdf2Excel</strong>
+<strong>from Pdf2Excel.Pdf2Excel import Pdf2Excel</strong> \n
 <strong>Pdf2Excel()</strong>
