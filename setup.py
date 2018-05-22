@@ -15,7 +15,7 @@ setup(
     install_requires=['numpy>=1.6.1'],#'time', 'argparse', 'AbbyyOnlineSdk'
     #ext_modules=[Extension("wordcloud.query_integral_image",
     #                       ["wordcloud/query_integral_image.c"])],
-    scripts=['Pdf2Excel.py'],
-    #packages=['Pdf2Excel'],
+    scripts=['Pdf2Excel/Pdf2Excel.py'],
+    packages=['Pdf2Excel'],
     #package_data={'wordcloud': ['stopwords', 'DroidSansMono.ttf']}
 )
