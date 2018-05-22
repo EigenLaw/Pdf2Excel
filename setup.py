@@ -16,6 +16,6 @@ setup(
     #ext_modules=[Extension("wordcloud.query_integral_image",
     #                       ["wordcloud/query_integral_image.c"])],
     scripts=['Pdf2Excel.py'],
-    packages=['Pdf2Excel'],
+    #packages=['Pdf2Excel'],
     #package_data={'wordcloud': ['stopwords', 'DroidSansMono.ttf']}
 )
